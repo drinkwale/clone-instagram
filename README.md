@@ -1,2 +1,2 @@
 # clone-instagram
-prisma, graphql, express, react
+cloning instagram with prisma, graphql, express, react and react-native
